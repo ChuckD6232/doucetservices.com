@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /wp-content/plugins/
+
+Sitemap: https://doucetservices.com/sitemap.xml
